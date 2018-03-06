@@ -4,3 +4,4 @@ public void Main(char[] args)
   
   Console.ReadKey();
 }
+Luz tu fuego, destrucción!
